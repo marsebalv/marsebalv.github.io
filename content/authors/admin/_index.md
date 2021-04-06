@@ -10,11 +10,11 @@ role: Climate scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Centro de Investigaciones del Mar y la Atmósfera (UBA/CONICET)
+- name: Centro de Investigaciones del Mar y la Atmósfera - UBA - CONICET
   url: www.cima.fcen.uba.ar
 
 # Short bio (displayed in user profile at end of posts)
-My research interests include climate variability and forecast in subseasonal time scales
+bio: My research interests include climate variability and forecast in subseasonal time scales
 
 # Interests to show in About widget
 interests:
