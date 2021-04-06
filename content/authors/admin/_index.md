@@ -1,26 +1,25 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Mariano S. Alvarez
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Climate scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Centro de Investigaciones del Mar y la Atmósfera (UBA/CONICET)
+  url: https://www.cima.fcen.uba.ar
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include climate variability and forecast in subseasonal time scales
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Climate variability
+- Data analysis and visualization
 
 # Education to show in About widget
 education:
