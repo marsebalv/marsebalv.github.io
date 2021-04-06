@@ -70,7 +70,11 @@ related:
   includeNewer: true
   toLower: true
   indices:
+    - name: title
+      weight: 60
+    - name: summary
+      weight: 50
     - name: tags
-      weight: 100
+      weight: 80
     - name: categories
       weight: 70
