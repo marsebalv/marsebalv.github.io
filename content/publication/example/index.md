@@ -63,7 +63,7 @@ image:
   placement : 1
   caption: 'Image credit: [**Atmosphere**](https://www.mdpi.com/2073-4433/8/12/232)'
   focal_point: Left
-  preview_only: true
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
