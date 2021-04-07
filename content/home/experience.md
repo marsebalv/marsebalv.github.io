@@ -63,6 +63,5 @@ experience:
     location: Buenos Aires
     date_start: '2011-04-01'
     date_end: '2016-03-31'
-    description: I worked under the supervision of Dr. Carolina Vera in the thesis "A study on the sources of intraseasonal variability in South America. "   
-    
+    description: I worked under the supervision of Dr. Carolina Vera in the thesis "A study on the sources of intraseasonal variability in South America". 
 ---
