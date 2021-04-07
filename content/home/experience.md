@@ -26,7 +26,7 @@ date_format: Jan 2006
 experience:
   - title: Researcher
     company: Centro de Investigaciones del Mar y la Atmósfera - CONICET - UBA
-    company_url: 'www.cima.fcen.uba.ar'
+    company_url: http://www.cima.fcen.uba.ar
     location: Buenos Aires
     date_start: '2018-11-01'
     date_end: ''
@@ -35,7 +35,7 @@ experience:
 
   - title: Visiting researcher
     company: Danish Meteorological Institute
-    company_url: 'www.dmi.dk'
+    company_url: https://www.dmi.dk
     location: Copenhagen
     date_start: '2020-08-01'
     date_end: '2021-03-01'
@@ -43,9 +43,26 @@ experience:
         
   - title: Teaching Assistant
     company: University of Buenos Aires - Department of Atmospheric and Oceanic Sciences
-    company_url: 'http://www.at.fcen.uba.ar/'
+    company_url: http://www.at.fcen.uba.ar/
     location: Buenos Aires
     date_start: '2011-04-01'
     date_end: '2021-03-01'
     description: I have taught as an undergraduate assistant, graduate assistant and since 2017 as head teaching assistant topics such as probability and statistics for the climate system, atmospheric dynamics and programming in MatLab.
+    
+    - title: Postdoc fellow
+    company: Centro de Investigaciones del Mar y la Atmósfera - CONICET - UBA
+    company_url: http://www.cima.fcen.uba.ar
+    location: Buenos Aires
+    date_start: '2016-04-01'
+    date_end: '2018-10-31'
+    description: My project during this fellowship was "Predictability study for the development of subseasonal forecasts in South America"
+    
+    - title: Ph.D. fellow
+    company: Centro de Investigaciones del Mar y la Atmósfera - CONICET - UBA
+    company_url: http://www.cima.fcen.uba.ar
+    location: Buenos Aires
+    date_start: '2011-04-01'
+    date_end: '2016-03-31'
+    description: I worked under the supervision of Dr. Carolina Vera in the thesis "A study on the sources of intraseasonal variability in South America. "   
+    
 ---
