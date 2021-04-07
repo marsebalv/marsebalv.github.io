@@ -3,13 +3,16 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: portfolio
 
+# Activate this widget? true/false
+active: false
+
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
 weight: 65
 
-title: Data Viz
+title: Projects
 subtitle: ''
 
 content:
