@@ -30,7 +30,8 @@ experience:
     location: Buenos Aires
     date_start: '2018-11-01'
     date_end: ''
-    description: My research focus on climate predictability on subseasonal time scales using data from the S2S and SubX projects; climate variability, especially on intraseasonal time scales; and extreme events such as heat waves.
+    description: |2-
+    My research focus on climate predictability on subseasonal time scales using data from the S2S and SubX projects; climate variability, especially on intraseasonal time scales; and extreme events such as heat waves.
         Currently on leave from the position, searching for opportunities and reseach challenges to expand my knowledge.
 
   - title: Visiting researcher
@@ -63,5 +64,6 @@ experience:
     location: Buenos Aires
     date_start: '2011-04-01'
     date_end: '2016-03-31'
-    description: I worked under the supervision of Dr. Carolina Vera in the thesis "A study on the sources of intraseasonal variability in South America". 
+    description: I worked under the supervision of Dr. Carolina Vera in the thesis "A study on the sources of intraseasonal variability in South America"
+    
 ---
