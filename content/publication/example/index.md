@@ -60,7 +60,7 @@ url_video: ''
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # In Hugo Academic, the placement options are as follows: 1 = Full column width, 2 = Out-set, 3 = Screen-width (with 1 being the default). The focal point options are Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
-  placement : 2
+  placement : 3
   caption: 'Image credit: [**Atmosphere**](https://www.mdpi.com/2073-4433/8/12/232)'
   focal_point: Left
   preview_only: false
