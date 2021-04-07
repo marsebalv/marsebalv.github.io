@@ -1,40 +1,43 @@
 ---
-title: "An example conference paper"
+title: "MJO Modulating the Activity of the Leading Mode of Intraseasonal Variability in South America"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
+- Carolina S. Vera
+- George N. Kiladis
 
 # Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
-doi: ""
+date: "2017-11-01T00:00:00Z"
+doi: "10.3390/atmos8120232"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+# publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *Atmosphere*
+# publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Intraseasonal (IS) variability in South America is efficiently described through the first empirical orthogonal function of filtered precipitation or outgoing longwave radiation (OLR) anomalies. In the 30-90-day band, the leading OLR pattern between October and April is a dipole with centers of action in the South Atlantic Convergence Zone (SACZ) and southeastern South America (SESA). The Madden Julian Oscillation (MJO) was shown to have an impact on the rainfall in South America, with greater influence during the austral warm season. The aim of this study is therefore to assess the modulation of the MJO in the activity of the leading pattern of variability in South America, named the 3090-Seasonal-Intraseasonal (SIS) pattern. It was found that the most intense periods of activity of the SIS pattern appear to be related to intense MJO events with coherent eastward propagation. Furthermore, positive 3090-SIS phases, associated with enhanced (inhibited) convection over the SESA (SACZ) region generally occur during MJO progression from the eastern Indian Ocean to the Western Pacific (i.e., Maritime Continent sector). On the contrary, negative 3090-SIS phases, associated with enhanced (inhibited) convection over SACZ (SESA) are observed when the MJO active phase locates between the Western Pacific and the western Indian Ocean (African sector). The 3090-SIS pattern modulation by the MJO opens the opportunity to develop skillful subseasonal prediction tools in South America.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Ahora en palabras claras
 
-tags: []
+tags:
+- MJO
+- SIS
 
 # Display this page in the Featured widget?
 featured: true
@@ -44,7 +47,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://www.mdpi.com/2073-4433/8/12/232'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -65,23 +68,22 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- example
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+# 
+# {{% callout note %}}
+# Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+# {{% /callout %}}
+# 
+# {{% callout note %}}
+# Create your slides in Markdown - click the *Slides* button to check out the example.
+# {{% /callout %}}
+# 
+# Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
