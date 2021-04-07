@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Data Viz
 cms_exclude: true
 
 # View.
