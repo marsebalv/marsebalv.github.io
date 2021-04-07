@@ -26,7 +26,7 @@ date_format: Jan 2006
 experience:
   - title: Researcher
     company: Centro de Investigaciones del Mar y la Atmósfera - CONICET - UBA
-    company_url: http://www.cima.fcen.uba.ar
+    company_url: 'http://www.cima.fcen.uba.ar'
     location: Buenos Aires
     date_start: '2018-11-01'
     date_end: ''
@@ -34,7 +34,7 @@ experience:
 
   - title: Visiting researcher
     company: Danish Meteorological Institute
-    company_url: https://www.dmi.dk
+    company_url: 'https://www.dmi.dk'
     location: Copenhagen
     date_start: '2020-08-01'
     date_end: '2021-03-01'
@@ -42,7 +42,7 @@ experience:
         
   - title: Teaching Assistant
     company: University of Buenos Aires - Department of Atmospheric and Oceanic Sciences
-    company_url: http://www.at.fcen.uba.ar/
+    company_url: 'http://www.at.fcen.uba.ar/'
     location: Buenos Aires
     date_start: '2011-04-01'
     date_end: '2021-03-01'
@@ -50,7 +50,7 @@ experience:
     
     - title: Postdoc fellow
     company: Centro de Investigaciones del Mar y la Atmósfera - CONICET - UBA
-    company_url: http://www.cima.fcen.uba.ar
+    company_url: 'http://www.cima.fcen.uba.ar'
     location: Buenos Aires
     date_start: '2016-04-01'
     date_end: '2018-10-31'
@@ -58,7 +58,7 @@ experience:
     
     - title: Ph.D. fellow
     company: Centro de Investigaciones del Mar y la Atmósfera - CONICET - UBA
-    company_url: http://www.cima.fcen.uba.ar
+    company_url: 'http://www.cima.fcen.uba.ar'
     location: Buenos Aires
     date_start: '2011-04-01'
     date_end: '2016-03-31'
