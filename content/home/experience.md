@@ -48,7 +48,7 @@ experience:
     date_end: '2021-03-01'
     description: I have taught as an undergraduate assistant, graduate assistant and since 2017 as head teaching assistant topics such as probability and statistics for the climate system, atmospheric dynamics and programming in MatLab.
     
-    - title: Postdoc fellow
+  - title: Postdoc fellow
     company: Centro de Investigaciones del Mar y la Atmósfera - CONICET - UBA
     company_url: 'http://www.cima.fcen.uba.ar'
     location: Buenos Aires
@@ -56,7 +56,7 @@ experience:
     date_end: '2018-10-31'
     description: My project during this fellowship was "Predictability study for the development of subseasonal forecasts in South America"
     
-    - title: Ph.D. fellow
+  - title: Ph.D. fellow
     company: Centro de Investigaciones del Mar y la Atmósfera - CONICET - UBA
     company_url: 'http://www.cima.fcen.uba.ar'
     location: Buenos Aires
