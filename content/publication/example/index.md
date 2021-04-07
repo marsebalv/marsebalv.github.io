@@ -59,8 +59,8 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ""
+  caption: 'Image credit: [**Atmosphere**](https://www.mdpi.com/2073-4433/8/12/232)'
+  focal_point: l
   preview_only: false
 
 # Associated Projects (optional).
@@ -77,13 +77,4 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-# 
-# {{% callout note %}}
-# Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-# {{% /callout %}}
-# 
-# {{% callout note %}}
-# Create your slides in Markdown - click the *Slides* button to check out the example.
-# {{% /callout %}}
-# 
-# Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+
