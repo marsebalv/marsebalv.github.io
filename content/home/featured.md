@@ -12,7 +12,7 @@ active: true
 # Order that this section appears on the page.
 weight: 80
 
-title: Scientific Publications
+title: Selected scientific publications
 subtitle: ""
 
 content:
@@ -37,3 +37,5 @@ design:
   #   4 = Citation (publication only)
   view: 3
 ---
+
+In this section I show a selection of my scientific publications with a brief explanation in plain words. You can find my complete set of Publications in my [orcid profile](https://orcid.org/0000-0001-5134-5250).

@@ -66,5 +66,7 @@ email: ""
 highlight_name: false
 ---
 
-Mariano S. Alvarez is a Climate Scientist who has been working on climate variability, predictability and prediction on subseasonal timescales over the Southern Hemisphere and South America.
+I'm a Climate Scientist who has been working on climate variability, predictability and prediction on subseasonal timescales over the Southern Hemisphere and South America.
+
+I enjoy working with large amounts of data to find answers to a problem, and through my career I developed a growing interest on data visualization to convey those answers to different audiences.
 
