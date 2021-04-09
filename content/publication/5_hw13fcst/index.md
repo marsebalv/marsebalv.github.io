@@ -61,7 +61,7 @@ url_video: ''
 image:
   placement : 1
   caption: 'Image credit: [**Clim Dyn**]()'
-  focal_point: Left
+  focal_point: TopLeft
   preview_only: false
 
 # Associated Projects (optional).
